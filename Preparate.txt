@@ -1,0 +1,5 @@
+4
+PasteCarbonara 200 25 5
+Pizza 300 30 2
+Supa 250 23 2
+Ciorba 250 40 2

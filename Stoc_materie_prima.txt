@@ -1,0 +1,12 @@
+11
+Rosii kilograme 200
+Oua bucati 100
+Lapte litri 0
+Faina kilograme 200
+Salam kilograme 10
+Cartofi kilograme 300
+Ciorba litri 100
+Morcovi kilograme 50
+Paste kilograme 50
+Pui kilograme 30
+Fasole kilograme 0

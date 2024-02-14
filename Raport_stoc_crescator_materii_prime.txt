@@ -1,0 +1,12 @@
+Lapte 0 litri
+Fasole 0 kilograme
+Salam 10 kilograme
+Pui 30 kilograme
+Morcovi 50 kilograme
+Paste 50 kilograme
+Oua 100 bucati
+Ciorba 100 litri
+Rosii 200 kilograme
+Faina 200 kilograme
+Cartofi 300 kilograme
+
